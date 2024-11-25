@@ -1,4 +1,3 @@
-"# AI-SmartInsights" 
 # AI-Powered Insights with Streamlit
 
 This project provides an interactive interface using **Streamlit** to analyze financial data, generate SQL queries dynamically using **OpenAI**, and visualize insights. It connects to a **PostgreSQL** database and supports data visualization using **Seaborn** and **Matplotlib**.
